@@ -1,0 +1,15 @@
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.sourcelink.json
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\obj\Debug\net7.0\ref\Project.dll

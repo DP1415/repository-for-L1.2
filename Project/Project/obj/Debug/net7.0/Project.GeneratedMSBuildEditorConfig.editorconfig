@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project
-build_property.ProjectDir = C:\Users\USER\Desktop\2 курс\практика Методы объектно-ориентированного проектирования\Л1\repository-for-L1.2\Project\Project\
+build_property.ProjectDir = C:\Users\Денис\OneDrive\Рабочий стол\2 курс\2 семестр\ООП\Лабораторные работы\Local\repository-for-L1.2\Project\Project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
