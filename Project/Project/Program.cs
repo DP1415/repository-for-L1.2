@@ -10,6 +10,7 @@
             int a = Convert.ToInt32(Console.ReadLine());
             string str = "a > 5 - " + Convert.ToString(a > 5) + " & a < 100 - " + Convert.ToString(a < 100);
             Console.WriteLine(str);
+            Console.WriteLine("остаток от деления на 2 = " + (a & 1));
         }
     }
 }
